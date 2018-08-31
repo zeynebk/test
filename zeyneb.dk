@@ -32,6 +32,10 @@
   
   <!-- Hero Image -->
   <div class="heroimg"></div>
+  
+  <!-- My skills-->
+<section class="skill">
+ <div class="skills">
           
   </div>
 </body>

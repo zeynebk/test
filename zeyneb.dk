@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title>Zeyneb</title>
+
+<!-- link to css -->
+<link rel="stylesheet" type="text/css" href="stylesheet1.css">
+
+</head>
+
+<body>
+<!-- logo -->
+  <div class="logo">
+    <a href="http://www.zeyneb.dk"><img src="z.png" alt="logo"></a>
+  </div>
+ 
+
+  <!-- Navigation -->
+  <div class="navbar">
+    <a href="contact.html"><i class="fa fa-envelope"></i>  KONTAKT</a>
+    <a href="about.html"> <i class="fa fa-user"></i> OM</a>
+  </div>
+
+<!-- hamburger navigation -->
+
+  <div class="hamburgernavigation">
+    <img src="menu.png" alt="MENU" >
+    <div class="hoverbox"></div>
+  <div class="dropdown-content">
+    <a href="about.html"> OM</a>
+    <a href="contact.html"> KONTAKT</a>
+  </div>
+          
+  </div>
+</body>
+</html>

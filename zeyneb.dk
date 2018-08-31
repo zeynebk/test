@@ -29,6 +29,9 @@
     <a href="about.html"> OM</a>
     <a href="contact.html"> KONTAKT</a>
   </div>
+  
+  <!-- Hero Image -->
+  <div class="heroimg"></div>
           
   </div>
 </body>
